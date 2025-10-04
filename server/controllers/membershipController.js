@@ -1,4 +1,4 @@
-import Membership from '../models/membership.js';
+import Membership from '../models/Membership.js';
 
 export const membershipJoiner = async (req, res) => {
   try {
