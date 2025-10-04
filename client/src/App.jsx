@@ -8,7 +8,7 @@ import MemberShip from "./pages/MemberShip"
 import MemberShipJoin from "./pages/MemberShipJoin"
 import { Toaster } from "react-hot-toast"
 import Footer from "./components/Footer"
-import ProtectedRoute from "./components/protectedRoute.jsx"
+import ProtectedRoute from "./components/ProtectedRoute.jsx"
 
 function App() {
  
