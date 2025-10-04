@@ -1,4 +1,4 @@
-import MemberShip from '../models/membership.js'
+import MemberShip from '../models/Membership.js'
 import { Parser } from 'json2csv'
 
 
